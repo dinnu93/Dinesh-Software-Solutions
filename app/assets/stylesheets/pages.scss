@@ -18,7 +18,6 @@ html,body {
    width: 100%;
    height: 100%;
    margin-bottom: 0;
-   border-bottom: solid 1px #404040;
 }
 
 .home {
@@ -26,7 +25,6 @@ html,body {
   font-size: 3rem;
   text-align: center;
   padding-top: 18.25rem;
-  padding-bottom: 24.25rem;
   text-shadow: 2px 2px rgba(0,0,0,0.5);
   color: #333;
 }
@@ -36,12 +34,10 @@ html,body {
    width: 100%;
    height: 100%;
    padding-bottom: 10rem;
-   border-bottom: solid 1px #404040;
 }
 
 .about {
   padding-top: 10rem;
-  padding-bottom: 27.5rem;
   color: #404040;
   .title {
     font-family: 'Roboto Slab', serif;
@@ -65,7 +61,6 @@ html,body {
 
 .contact {
   padding-top: 10rem;
-  padding-bottom: 27.5rem;
   color: #404040;
   .title {
     font-family: 'Roboto Slab', serif;
